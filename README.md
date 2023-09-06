@@ -1,4 +1,3 @@
-[🇷🇺](/README_RU.md "Russian")
 
 # TOC
 
